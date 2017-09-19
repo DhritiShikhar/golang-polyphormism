@@ -1,0 +1,8 @@
+Polymorphism
+-------------
+
+1. Polymorphism is the ability of a method to behave differently based on the object
+
+2. This can be achieved in Golang through interface
+
+3. A variable of type interface can hold any value which implements interface
